@@ -1,0 +1,24 @@
+{
+  "name": "discordBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackPing/discordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackPing/discordBot/issues"
+  },
+  "homepage": "https://github.com/BlackPing/discordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "nodemon": "^2.0.2"
+  }
+}
